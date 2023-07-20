@@ -1,3 +1,2 @@
-# Rock vs Mine Detection using various classification algorithms
-## Cat Boost model performed the best with an accuracy of 92.31 % on the test set
-## Logistic Regression , XGBoost and Random Forest (with 250 trees) were tied for the second best accuracy score of 88.46 %
+# Rock vs Mine Detection 
+This GitHub repository contains a collection of code and Jupyter Notebooks showcasing various machine learning models applied to the "Rock vs. Mine" classification problem. The project focuses on using different classification algorithms to distinguish between sonar signals emitted by rocks and those emitted by mines in underwater environments.
